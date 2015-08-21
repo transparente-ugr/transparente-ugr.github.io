@@ -143,3 +143,10 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #3b759e; }
+
+/* my stuff */
+
+.reveal .big {
+    font-size: 6em;
+    color: darkblue;
+}
